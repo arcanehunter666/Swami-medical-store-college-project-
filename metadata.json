@@ -1,0 +1,7 @@
+{
+  "name": "Swami Medical Store",
+  "description": "A professional pharmacy management and e-commerce platform with prescription validation and stock management.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
